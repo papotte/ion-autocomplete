@@ -1,3 +1,5 @@
+:warning: Modified original to disable Autofocus on Search Input.
+
 ion-autocomplete
 ================
 [![Build Status](https://travis-ci.org/guylabs/ion-autocomplete.svg?branch=master)](https://travis-ci.org/guylabs/ion-autocomplete)

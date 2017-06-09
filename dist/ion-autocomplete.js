@@ -327,9 +327,9 @@ angular.module('ion-autocomplete', []).directive('ionAutocomplete', [
 
                         // focus on the search input field
                         if (searchInputElement.length > 0) {
-                            searchInputElement[0].focus();
+                            //searchInputElement[0].focus();
                             setTimeout(function () {
-                                searchInputElement[0].focus();
+                                //searchInputElement[0].focus();
                             }, 100);
                         }
 
